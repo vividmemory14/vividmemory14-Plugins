@@ -1,0 +1,11 @@
+---
+name: test
+version: 0.0.1
+main: vividmemory\test\Main
+api: 3.11.6
+
+commands:
+  test:
+    description: "use vividmemory's test plugin"
+
+...
